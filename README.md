@@ -48,7 +48,7 @@ fc = frequency of cooperators
 limT→inf fc = 12log2 – 8 = 0.318 can be proven
 Although this approximation always works when we have 10% random D and 1.8<b<2 we don’t know why it does so!
 
-### 10% D randomly at 99x99 lattice, T=200, b=1.6
+### 1.4.1 10% D randomly at 99x99 lattice, T=200, b=1.6
 
 
 <div align="center">
@@ -59,7 +59,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </div>
 </div>
 
-### 10% D randomly at 99x99 lattice, T=200, b=1.9
+### 1.4.2 10% D randomly at 99x99 lattice, T=200, b=1.9
 
 <div align="center">
 <p float="center">
@@ -68,7 +68,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </p>
 </div>
 
-### 10% D randomly at 99x99 lattice, T=200, b=2.5
+### 1.4.3 10% D randomly at 99x99 lattice, T=200, b=2.5
 
 <div align="center">
 <p float="center">
@@ -77,7 +77,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </p>
 </div>
 
-### 1 D at the center of the 99x99 lattice, T=2000, b=1.9
+### 1.4.4 1 D at the center of the 99x99 lattice, T=2000, b=1.9
 
 <div align="center">
 <p float="center">
@@ -86,7 +86,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </p>
 </div>
 
-### 8 Neighbors (thus self interaction exluded)
+### 1.4.5 8 Neighbors (thus self interaction exluded)
 
 * “Interesting Region" is 5/3>b>8/5 (here b=1.62 with 10% random D)
 *  Similar symmetric patterns 
@@ -98,7 +98,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </p>
 </div>
 
-### 5 Neighbors (including self)
+### 1.4.6 5 Neighbors (including self)
 
 * “Interesting Region” is 2>b>5/3 (here b=1.8 with 10% random D)
 * Similar symmetric patterns 
@@ -110,7 +110,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </p>
 </div>
 
-### 4 Neighbors (thus self interaction exluded)
+### 1.4.7 4 Neighbors (thus self interaction exluded)
 
 * “Interesting Region” is 3/2>b>4/3 (here b=1.4 with 10% random D)
 * Similar symmetric patterns 
