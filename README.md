@@ -21,8 +21,30 @@ Two members of a criminal organization are arrested and imprisoned. Each prisone
 
 In this case, "to betray" is defined as a dominating strategy for both players. A dominating strategy is one player's best response to the other, and it is aligned with the Sure-thing Principle. The prisoner's dilemma also illustrates that the decisions made under collective rationality may not necessarily be the same as that made under individual rationality, and this conflict can also be witnessed in a situation called "Tragedy of the Commons". This case indicates the fact that public goods are always prone to over-use.
 
-# Iterated Prisoner's Dilemna
+## Iterated Prisoner's Dilemna
 
 An extended "iterated" version of the game also exists. In this version, the classic game is played repeatedly between the same prisoners, who continuously have the opportunity to penalize the other for previous decisions. If the number of times the game will be played is known to the players, then (by backward induction) two classically rational players will betray each other repeatedly, for the same reasons as the single-shot variant. In an infinite or unknown length game there is no fixed optimum strategy, and prisoner's dilemma tournaments have been held to compete and test algorithms for such cases.
 
 The iterated version of prisoner's dilemma is of particular interest for researchers. Due to its iterative nature, previous researchers observed that the frequency for players to cooperate could change, based on the outcomes of each iteration. Specifically, players may be less willing to cooperate if his counterpart did not cooperate for many times, which renders disappointment. Conversely, as time goes by, cooperation could increase mainly attributable to the fact that a "tacit agreement" between players has been set up. Another interesting aspect concerning the iterated version of experiment, however, is that, this tacit agreement between players has always been established successfully even though the number of iterations is made public to both sides.
+
+## Spatial Prisoner's Dilemna
+
+In spatial prisoner's dileman there are two players those who always cooperate, C, and those who always defect, D. We place those players on a two dimensional lattice (grid), each lattice site is occupied either by a C or a D. In each round of the game (each generation), the players play the PD game with nearest neighboring sites and with one's own site (thus we define these sites as a territory – a 3x3 grid). The score for each player is the sum of the payoffs in these encounters with neighbors. At the start of the next generation, each lattice-site is occupied by the player with the highest score among the previous owner and the immediate neighbors. Boundaries are fixed but we can also define the lattice as a torus. Conclusions we will deduct remain true if players interact only with the four orthogonal neighbors in square lattices or self-interactions are included.
+
+|       | **C** | **D** |
+|:-----:|:-----:|:-----:|
+| **C** |  R=1  |  S=0  |
+| **D** | T=b>1 |  P=0  |
+
+The dynamical behavior of the system depends on the parameter b.
+
+
+* (b > 1.8) 2x2 or larger cluster of D will continue to grow at the corners.
+* (b < 1.8) big D cluster will shrink
+* 9b < 2) 2x2 or larger cluster of C will continue to grow
+* 9b > 2) C clusters do not grow
+* (2 > b > 1.) C clusters can grow in regions of D and vice versa
+
+Chaos persists in shifting patterns C → D, D → C, D → D, C → C
+
+
