@@ -33,12 +33,11 @@ In spatial prisoner's dileman there are two players those who always cooperate, 
 
 ## The Prisoner's Dilemna Game
 
-<div align="center">
 |       | **C** | **D** |
 |:-----:|:-----:|:-----:|
 | **C** |  R=1  |  S=0  |
 | **D** | T=b>1 |  P=0  |
-</div>
+
 for T > R > P ≥ S
 
 ## Chaos in the Spatial PD game
