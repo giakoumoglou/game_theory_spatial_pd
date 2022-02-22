@@ -27,17 +27,22 @@ An extended "iterated" version of the game also exists. In this version, the cla
 
 The iterated version of prisoner's dilemma is of particular interest for researchers. Due to its iterative nature, previous researchers observed that the frequency for players to cooperate could change, based on the outcomes of each iteration. Specifically, players may be less willing to cooperate if his counterpart did not cooperate for many times, which renders disappointment. Conversely, as time goes by, cooperation could increase mainly attributable to the fact that a "tacit agreement" between players has been set up. Another interesting aspect concerning the iterated version of experiment, however, is that, this tacit agreement between players has always been established successfully even though the number of iterations is made public to both sides.
 
-## Spatial Prisoner's Dilemna
+## The Spatial Prisoner's Dilemna
 
 In spatial prisoner's dileman there are two players those who always cooperate, C, and those who always defect, D. We place those players on a two dimensional lattice (grid), each lattice site is occupied either by a C or a D. In each round of the game (each generation), the players play the PD game with nearest neighboring sites and with one's own site (thus we define these sites as a territory – a 3x3 grid). The score for each player is the sum of the payoffs in these encounters with neighbors. At the start of the next generation, each lattice-site is occupied by the player with the highest score among the previous owner and the immediate neighbors. Boundaries are fixed but we can also define the lattice as a torus. Conclusions we will deduct remain true if players interact only with the four orthogonal neighbors in square lattices or self-interactions are included.
+
+## The Prisoner's Dilemna Game
 
 |       | **C** | **D** |
 |:-----:|:-----:|:-----:|
 | **C** |  R=1  |  S=0  |
 | **D** | T=b>1 |  P=0  |
 
-The dynamical behavior of the system depends on the parameter b.
+for T > R > P ≥ S
 
+## Chaos in the Spatial PD game
+
+The dynamical behavior of the system depends on the parameter b.
 
 * (b > 1.8) 2x2 or larger cluster of D will continue to grow at the corners.
 * (b < 1.8) big D cluster will shrink
@@ -46,5 +51,59 @@ The dynamical behavior of the system depends on the parameter b.
 * (2 > b > 1.) C clusters can grow in regions of D and vice versa
 
 Chaos persists in shifting patterns C → D, D → C, D → D, C → C
+
+## Some Examples
+
+Color assignments:
+C → C blue
+D → D red
+D → C yellow
+C → D green
+
+fc = frequency of cooperators
+limT→inf fc = 12log2 – 8 = 0.318 can be proven
+Although this approximation always works when we have 10% random D and 1.8<b<2 we don’t know why it does so!
+
+### 10% D randomly at 99x99 lattice, T=200, b=1.6
+![image](https://user-images.githubusercontent.com/57758089/155201708-03e20e50-56ea-4cf8-bc3a-bd4228dce3d4.png)
+![image](https://user-images.githubusercontent.com/57758089/155201760-7302bf74-36b0-447f-b45e-4a94128c49a8.png)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57758089/155201708-03e20e50-56ea-4cf8-bc3a-bd4228dce3d4.png">
+</p>
+<p align="center">
+  <img src=![image](https://user-images.githubusercontent.com/57758089/155201760-7302bf74-36b0-447f-b45e-4a94128c49a8.png)>
+</p>
+
+
+### 10% D randomly at 99x99 lattice, T=200, b=1.9
+
+### 10% D randomly at 99x99 lattice, T=200, b=2.5
+
+### 1D at the center of the 99x99 lattice, T=2000, b=1.9
+
+### 8 Neighbors (thus self interaction exluded)
+
+* “Interesting Region" is 5/3>b>8/5 (here b=1.62 with 10% random D)
+*  Similar symmetric patterns 
+* fc → 0.299
+
+### 5 Neighbors (including self)
+
+* “Interesting Region” is 2>b>5/3 (here b=1.8 with 10% random D)
+* Similar symmetric patterns 
+* fc  → 0.374
+
+### 4 Neighbors (thus self interaction exluded)
+
+* “Interesting Region” is 3/2>b>4/3 (here b=1.4 with 10% random D)
+* Similar symmetric patterns 
+* fc → 0.374
+
+### Conclusions and Applications
+
+Although the details of the patterns depend on the value of b, a wide range of values leads to chaotic patterns whose nature is almost always independent of the initial proportions of C and D.
+Such deterministically generated spatial structures may model and describe pre-biotic evolution of cooperation (among molecules, cells or organisms) as well as Turing models and 2-state Ising models.
+
 
 
