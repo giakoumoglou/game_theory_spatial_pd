@@ -68,19 +68,17 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 ![image](https://user-images.githubusercontent.com/57758089/155201708-03e20e50-56ea-4cf8-bc3a-bd4228dce3d4.png)
 ![image](https://user-images.githubusercontent.com/57758089/155201760-7302bf74-36b0-447f-b45e-4a94128c49a8.png)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/57758089/155201708-03e20e50-56ea-4cf8-bc3a-bd4228dce3d4.png">
-</p>
-<p align="center">
-  <img src=![image](https://user-images.githubusercontent.com/57758089/155201760-7302bf74-36b0-447f-b45e-4a94128c49a8.png)>
-</p>
-
-
 ### 10% D randomly at 99x99 lattice, T=200, b=1.9
+![image](https://user-images.githubusercontent.com/57758089/155201826-1942f801-b7cf-4bbf-b09c-fe2a071c6908.png)
+![image](https://user-images.githubusercontent.com/57758089/155201835-584f44c6-56d6-410b-b97a-eaebe52ae3fa.png)
 
 ### 10% D randomly at 99x99 lattice, T=200, b=2.5
+![image](https://user-images.githubusercontent.com/57758089/155201846-90b35462-127c-4d08-a3c4-769ef73700dd.png)
+![image](https://user-images.githubusercontent.com/57758089/155201853-3ecbc96a-4ed0-4101-96ae-2cb44ace4e72.png)
 
 ### 1D at the center of the 99x99 lattice, T=2000, b=1.9
+![image](https://user-images.githubusercontent.com/57758089/155201865-d4ee3265-b2e4-4c8f-a72b-da733f0a5bbf.png)
+![image](https://user-images.githubusercontent.com/57758089/155201872-1c087247-8118-44e7-8206-6b7d7c7a3ee4.png)
 
 ### 8 Neighbors (thus self interaction exluded)
 
@@ -88,17 +86,26 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 *  Similar symmetric patterns 
 * fc → 0.299
 
+![image](https://user-images.githubusercontent.com/57758089/155201888-3c6b2419-b0ee-4a3e-847b-5d9bf70c92f8.png)
+![image](https://user-images.githubusercontent.com/57758089/155201895-85bce395-2909-4144-b8be-8f1ea9a344f7.png)
+
 ### 5 Neighbors (including self)
 
 * “Interesting Region” is 2>b>5/3 (here b=1.8 with 10% random D)
 * Similar symmetric patterns 
 * fc  → 0.374
 
+![image](https://user-images.githubusercontent.com/57758089/155201919-91048e86-9421-402d-be25-c654174ef531.png)
+![image](https://user-images.githubusercontent.com/57758089/155201925-c72df11d-5540-4349-90ad-7caf72dc5362.png)
+
 ### 4 Neighbors (thus self interaction exluded)
 
 * “Interesting Region” is 3/2>b>4/3 (here b=1.4 with 10% random D)
 * Similar symmetric patterns 
 * fc → 0.374
+
+![image](https://user-images.githubusercontent.com/57758089/155201940-ad524a6d-0977-4871-bcd1-4e486be19d7e.png)
+![image](https://user-images.githubusercontent.com/57758089/155201946-5b227b02-938f-4826-9e59-0fd0ac904f95.png)
 
 ### Conclusions and Applications
 
