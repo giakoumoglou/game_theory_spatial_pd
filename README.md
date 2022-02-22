@@ -72,44 +72,45 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </p>
 </div>
 ### 1.4.4 1D at the center of the 99x99 lattice, T=2000, b=1.9
+<div align="center">
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201865-d4ee3265-b2e4-4c8f-a72b-da733f0a5bbf.png" width="400" height="400">
   <img src="https://user-images.githubusercontent.com/57758089/155201872-1c087247-8118-44e7-8206-6b7d7c7a3ee4.png" width="400" height="400">
 </p>
-
+</div>
 ### 1.4.5 8 Neighbors (thus self interaction exluded)
 
 * “Interesting Region" is 5/3>b>8/5 (here b=1.62 with 10% random D)
 *  Similar symmetric patterns 
 * fc → 0.299
-
+<div align="center">
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201888-3c6b2419-b0ee-4a3e-847b-5d9bf70c92f8.png" width="400" height="400">
   <img src="https://user-images.githubusercontent.com/57758089/155201895-85bce395-2909-4144-b8be-8f1ea9a344f7.png" width="400" height="400">
 </p>
-
+</div>
 ### 1.4.6 5 Neighbors (including self)
 
 * “Interesting Region” is 2>b>5/3 (here b=1.8 with 10% random D)
 * Similar symmetric patterns 
 * fc  → 0.374
-
+<div align="center">
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201919-91048e86-9421-402d-be25-c654174ef531.png" width="400" height="400">
   <img src="https://user-images.githubusercontent.com/57758089/155201925-c72df11d-5540-4349-90ad-7caf72dc5362.png" width="400" height="400">
 </p>
-
+</div>
 ### 1.4.7 4 Neighbors (thus self interaction exluded)
 
 * “Interesting Region” is 3/2>b>4/3 (here b=1.4 with 10% random D)
 * Similar symmetric patterns 
 * fc → 0.374
-
+<div align="center">
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201940-ad524a6d-0977-4871-bcd1-4e486be19d7e.png" width="400" height="400">
   <img src="https://user-images.githubusercontent.com/57758089/155201946-5b227b02-938f-4826-9e59-0fd0ac904f95.png" width="400" height="400">
 </p>
-
+</div>
 ## 1.5 Conclusions and Applications
 
 Although the details of the patterns depend on the value of b, a wide range of values leads to chaotic patterns whose nature is almost always independent of the initial proportions of C and D.
