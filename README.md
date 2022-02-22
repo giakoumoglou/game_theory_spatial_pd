@@ -49,23 +49,28 @@ limT→inf fc = 12log2 – 8 = 0.318 can be proven
 Although this approximation always works when we have 10% random D and 1.8<b<2 we don’t know why it does so!
 
 ### 1.4.1 10% D randomly at 99x99 lattice, T=200, b=1.6
+
+<div align="center">
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201708-03e20e50-56ea-4cf8-bc3a-bd4228dce3d4.png" width="400" height="400">
   <img src="https://user-images.githubusercontent.com/57758089/155201760-7302bf74-36b0-447f-b45e-4a94128c49a8.png" width="400" height="400">
 </p>
-
+</div>
+</div>
 ### 1.4.2 0% D randomly at 99x99 lattice, T=200, b=1.9
+<div align="center">
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201826-1942f801-b7cf-4bbf-b09c-fe2a071c6908.png" width="400" height="400">
   <img src="https://user-images.githubusercontent.com/57758089/155201835-584f44c6-56d6-410b-b97a-eaebe52ae3fa.png" width="400" height="400">
 </p>
-
+</div>
 ### 1.4.3 10% D randomly at 99x99 lattice, T=200, b=2.5
+<div align="center">
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201846-90b35462-127c-4d08-a3c4-769ef73700dd.png" width="400" height="400">
   <img src="https://user-images.githubusercontent.com/57758089/155204559-de01b018-ea13-40b7-a0f7-5f2004abd880.png" width="400" height="400">
 </p>
-
+</div>
 ### 1.4.4 1D at the center of the 99x99 lattice, T=2000, b=1.9
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201865-d4ee3265-b2e4-4c8f-a72b-da733f0a5bbf.png" width="400" height="400">
