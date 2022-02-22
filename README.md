@@ -48,7 +48,7 @@ fc = frequency of cooperators
 limT→inf fc = 12log2 – 8 = 0.318 can be proven
 Although this approximation always works when we have 10% random D and 1.8<b<2 we don’t know why it does so!
 
-### 1.4.1 10% D randomly at 99x99 lattice, T=200, b=1.6
+### 10% D randomly at 99x99 lattice, T=200, b=1.6
 
 
 <div align="center">
@@ -58,7 +58,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </p>
 </div>
 </div>
-### 1.4.2 0% D randomly at 99x99 lattice, T=200, b=1.9
+### 10% D randomly at 99x99 lattice, T=200, b=1.9
 
 <div align="center">
 <p float="center">
@@ -66,7 +66,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
   <img src="https://user-images.githubusercontent.com/57758089/155201835-584f44c6-56d6-410b-b97a-eaebe52ae3fa.png" width="500" height="400">
 </p>
 </div>
-### 1.4.3 10% D randomly at 99x99 lattice, T=200, b=2.5
+### 10% D randomly at 99x99 lattice, T=200, b=2.5
 
 <div align="center">
 <p float="center">
@@ -74,7 +74,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
   <img src="https://user-images.githubusercontent.com/57758089/155204559-de01b018-ea13-40b7-a0f7-5f2004abd880.png" width="500" height="400">
 </p>
 </div>
-### 1.4.4 1D at the center of the 99x99 lattice, T=2000, b=1.9
+### 1 D at the center of the 99x99 lattice, T=2000, b=1.9
 
 <div align="center">
 <p float="center">
@@ -83,7 +83,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </p>
 </div>
 
-### 1.4.5 8 Neighbors (thus self interaction exluded)
+### 8 Neighbors (thus self interaction exluded)
 
 * “Interesting Region" is 5/3>b>8/5 (here b=1.62 with 10% random D)
 *  Similar symmetric patterns 
@@ -95,7 +95,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </p>
 </div>
 
-### 1.4.6 5 Neighbors (including self)
+### 5 Neighbors (including self)
 
 * “Interesting Region” is 2>b>5/3 (here b=1.8 with 10% random D)
 * Similar symmetric patterns 
@@ -107,7 +107,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 </p>
 </div>
 
-### 1.4.7 4 Neighbors (thus self interaction exluded)
+### 4 Neighbors (thus self interaction exluded)
 
 * “Interesting Region” is 3/2>b>4/3 (here b=1.4 with 10% random D)
 * Similar symmetric patterns 
