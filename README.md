@@ -63,7 +63,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 ### 1.4.3 10% D randomly at 99x99 lattice, T=200, b=2.5
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201846-90b35462-127c-4d08-a3c4-769ef73700dd.png" width="500" height="500">
-  <img src="https://user-images.githubusercontent.com/57758089/155201853-3ecbc96a-4ed0-4101-96ae-2cb44ace4e72.pngg" width="500" height="500">
+  <img src="https://user-images.githubusercontent.com/57758089/155204559-de01b018-ea13-40b7-a0f7-5f2004abd880.png" width="500" height="500">
 </p>
 
 ### 1.4.4 1D at the center of the 99x99 lattice, T=2000, b=1.9
