@@ -65,7 +65,11 @@ limT→inf fc = 12log2 – 8 = 0.318 can be proven
 Although this approximation always works when we have 10% random D and 1.8<b<2 we don’t know why it does so!
 
 ### 10% D randomly at 99x99 lattice, T=200, b=1.6
-![image](https://user-images.githubusercontent.com/57758089/155201708-03e20e50-56ea-4cf8-bc3a-bd4228dce3d4.png){:height="100px" width="100px"}. ![image](https://user-images.githubusercontent.com/57758089/155201760-7302bf74-36b0-447f-b45e-4a94128c49a8.png){:height="100px" width="100px"}
+<img src="https://user-images.githubusercontent.com/57758089/155201708-03e20e50-56ea-4cf8-bc3a-bd4228dce3d4.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/57758089/155201760-7302bf74-36b0-447f-b45e-4a94128c49a8.png" width="100" height="100">
+
+
+![image](https://user-images.githubusercontent.com/57758089/155201708-03e20e50-56ea-4cf8-bc3a-bd4228dce3d4.png) ![image](https://user-images.githubusercontent.com/57758089/155201760-7302bf74-36b0-447f-b45e-4a94128c49a8.png)
 
 ### 10% D randomly at 99x99 lattice, T=200, b=1.9
 ![image](https://user-images.githubusercontent.com/57758089/155201826-1942f801-b7cf-4bbf-b09c-fe2a071c6908.png) ![image](https://user-images.githubusercontent.com/57758089/155201835-584f44c6-56d6-410b-b97a-eaebe52ae3fa.png)
