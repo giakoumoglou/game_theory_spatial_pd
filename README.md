@@ -91,6 +91,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 * “Interesting Region" is 5/3>b>8/5 (here b=1.62 with 10% random D)
 *  Similar symmetric patterns 
 * fc → 0.299
+
 <div align="center">
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201888-3c6b2419-b0ee-4a3e-847b-5d9bf70c92f8.png" width="500" height="400">
@@ -103,6 +104,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 * “Interesting Region” is 2>b>5/3 (here b=1.8 with 10% random D)
 * Similar symmetric patterns 
 * fc  → 0.374
+
 <div align="center">
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201919-91048e86-9421-402d-be25-c654174ef531.png" width="500" height="400">
@@ -115,6 +117,7 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 * “Interesting Region” is 3/2>b>4/3 (here b=1.4 with 10% random D)
 * Similar symmetric patterns 
 * fc → 0.374
+
 <div align="center">
 <p float="center">
   <img src="https://user-images.githubusercontent.com/57758089/155201940-ad524a6d-0977-4871-bcd1-4e486be19d7e.png" width="500" height="400">
