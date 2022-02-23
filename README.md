@@ -142,7 +142,7 @@ Such deterministically generated spatial structures may model and describe pre-b
   * ```printLattice``` : If 1, prints the lattice over rounds
   * ```printFc```: If 1, prints the frequency of cooperators over rounds
   * ```limit```: If >0, prints limit in fc as a horizontal line
-* ```Spatial_PD_8_NN.m```
+* ```Spatial_PD_8_NN.m```: In this implementation, the spatial PD game is played among 4 orthogonal neighbours. One can define the following parameters for the PD game:
   * ```b```: Defection payoff
   * ```torus```: If ~0, define the lattice as a torus, 0 else
   * ```p```: Proportion of defectors in [0, 1]
