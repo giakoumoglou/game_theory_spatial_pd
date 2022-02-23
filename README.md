@@ -130,9 +130,23 @@ Although this approximation always works when we have 10% random D and 1.8<b<2 
 Although the details of the patterns depend on the value of b, a wide range of values leads to chaotic patterns whose nature is almost always independent of the initial proportions of C and D.
 Such deterministically generated spatial structures may model and describe pre-biotic evolution of cooperation (among molecules, cells or organisms) as well as Turing models and 2-state Ising models.
 
-## 2. Support
+## 2. Code
+
+* ```Spatial_PD_4_NN.m```: In this implementation, the spatial PD game is played among 4 orthogonal neighbours. One can define the following parameters for the PD game:
+  * ```b```: Defection payoff
+  * ```torus```: If ~0, define the lattice as a torus, 0 else
+  * ```p```: Proportion of defectors in [0, 1]
+  * ```self_interaction```: If 0, self interaction is excluded, if ~0, included
+  * ```rounds```: Number of rounds/generation/time step
+  * ```n``` : Squared lattice side size
+  * ```printLattice``` : If 1, prints the lattice over rounds
+  * ```printFc```: If 1, prints the frequency of cooperators over rounds
+  * ```limit```: If >0, prints limit in fc as a horizontal line
+* ```Spatial_PD_8_NN.m```
+
+## 3. Support
 Reach out to me:
 - [giakou4's email](mailto:ngiakoumoglou@gmail.com "ngiakoumoglou@gmail.com")
 
-## 3. Citation
+## 4. Citation
 * Nowak, M., May, R. Evolutionary games and spatial chaos. Nature 359, 826–829 (1992). https://doi.org/10.1038/359826a0
