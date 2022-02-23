@@ -143,6 +143,16 @@ Such deterministically generated spatial structures may model and describe pre-b
   * ```printFc```: If 1, prints the frequency of cooperators over rounds
   * ```limit```: If >0, prints limit in fc as a horizontal line
 * ```Spatial_PD_8_NN.m```
+  * ```b```: Defection payoff
+  * ```torus```: If ~0, define the lattice as a torus, 0 else
+  * ```p```: Proportion of defectors in [0, 1]
+  * ```self_interaction```: If 0, self interaction is excluded, if ~0, included
+  * ```rounds```: Number of rounds/generation/time step
+  * ```n```: Squared lattice side size
+  * ```flag```: If 1, places a single D in the center of the nxn lattice (n must be odd to work correctly)
+  * ```printLattice```: If 1, prints the lattice over rounds
+  * ```printFc```: If 1, prints the frequency of cooperators over rounds
+  * ```limit```: If >0, prints limit in fc as a horizontal line
 
 ## 3. Support
 Reach out to me:
