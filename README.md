@@ -45,7 +45,7 @@ Color assignments:
 * C → D green
  
 fc = frequency of cooperators  
-limT→inf fc = 12log2 – 8 = 0.318 can be proven.  
+limT→inf fc = 12log2 – 8 = 0.318 can be proven  
 Although this approximation always works when we have 10% random D and 1.8<b<2 we don’t know why it does so!
 
 ### 1.4.1 10% D randomly at 99x99 lattice, T=200, b=1.6
