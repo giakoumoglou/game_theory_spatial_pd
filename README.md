@@ -30,8 +30,8 @@ The dynamical behavior of the system depends on the parameter b.
 
 * (b > 1.8) 2x2 or larger cluster of D will continue to grow at the corners.
 * (b < 1.8) big D cluster will shrink
-* 9b < 2) 2x2 or larger cluster of C will continue to grow
-* 9b > 2) C clusters do not grow
+* (b < 2) 2x2 or larger cluster of C will continue to grow
+* (b > 2) C clusters do not grow
 * (2 > b > 1.) C clusters can grow in regions of D and vice versa
 
 Chaos persists in shifting patterns C → D, D → C, D → D, C → C
