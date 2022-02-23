@@ -153,7 +153,7 @@ Such deterministically generated spatial structures may model and describe pre-b
   * ```printLattice```: If 1, prints the lattice over rounds
   * ```printFc```: If 1, prints the frequency of cooperators over rounds
   * ```limit```: If >0, prints limit in fc as a horizontal line
-
+* ```main.m```: Includes the reproduction of the figures of the paper and much more!
 ## 3. Support
 Reach out to me:
 - [giakou4's email](mailto:ngiakoumoglou@gmail.com "ngiakoumoglou@gmail.com")
