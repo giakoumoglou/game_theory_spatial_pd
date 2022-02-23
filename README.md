@@ -39,10 +39,10 @@ Chaos persists in shifting patterns C → D, D → C, D → D, C → C
 ## 1.4 Some Examples
 
 Color assignments:
-C → C blue
-D → D red
-D → C yellow
-C → D green
+* C → C blue
+* D → D red
+* D → C yellow
+* C → D green
  
 fc = frequency of cooperators  
 limT→inf fc = 12log2 – 8 = 0.318 can be proven.  
