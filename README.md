@@ -132,7 +132,7 @@ Such deterministically generated spatial structures may model and describe pre-b
 
 ## 2. Support
 Reach out to me:
-- [giakou4's email](mailto:ngiakoumoglou@hotmail.com "ngiakoumoglou@hotmail.com")
+- [giakou4's email](mailto:ngiakoumoglou@gmail.com "ngiakoumoglou@gmail.com")
 
 ## 3. Citation
 * Nowak, M., May, R. Evolutionary games and spatial chaos. Nature 359, 826–829 (1992). https://doi.org/10.1038/359826a0
