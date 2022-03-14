@@ -3,6 +3,7 @@
 </p>
 
 [![View Spatial Prisoners Dilemna on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/76781-spatial-prisoners-dilemna)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/giakou4/game_theory_spatial_PD/LICENSE)
 
 # 1. Game Theory: Spatial Prisoner's Dilemna
 This script is a simulation of Martin A. Nowak and Robert M. May paper about "Evolutionary Games and Spatial Chaos" 1992.  
