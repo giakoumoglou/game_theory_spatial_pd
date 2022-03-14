@@ -1,12 +1,12 @@
-<p align="center">
+<div align="center">
   <img src=https://c.tenor.com/i4cgk6ejhBMAAAAC/chess.gif>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 [![made-with-matlab](https://img.shields.io/badge/Made%20with-MATLAB-cb6015)](https://www.mathworks.com/products/matlab.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/giakou4/game_theory_spatial_PD/LICENSE)
 [![View Spatial Prisoners Dilemna on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/76781-spatial-prisoners-dilemna)
-</p>
+</div>
 
 <p align="center">
 ![forks](https://img.shields.io/github/forks/giakou4/game_theory_spatial_PD.svg)
