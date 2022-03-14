@@ -1,6 +1,7 @@
 <div align="center">
   <img src=https://c.tenor.com/i4cgk6ejhBMAAAAC/chess.gif>
-</div>
+</div>  
+
 
 <div align="center">
   
