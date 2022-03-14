@@ -10,7 +10,7 @@
   
 [![forks](https://img.shields.io/github/forks/giakou4/game_theory_spatial_PD.svg)](https://img.shields.io/github/forks/giakou4/game_theory_spatial_PD.svg)
 [![stars](https://img.shields.io/github/stars/giakou4/game_theory_spatial_PD.svg)](https://img.shields.io/github/stars/giakou4/game_theory_spatial_PD.svg)
-[!issues-open](https://img.shields.io/github/issues/giakou4/game_theory_spatial_PD.svg)](https://img.shields.io/github/issues/giakou4/game_theory_spatial_PD.svg)
+[![issues-open](https://img.shields.io/github/issues/giakou4/game_theory_spatial_PD.svg)](https://img.shields.io/github/issues/giakou4/game_theory_spatial_PD.svg)
 [![issues-closed](https://img.shields.io/github/issues-closed/giakou4/game_theory_spatial_PD.svg)](https://img.shields.io/github/issues-closed/giakou4/game_theory_spatial_PD.svg)
 [![size](https://img.shields.io/github/languages/code-size/giakou4/game_theory_spatial_PD)](https://img.shields.io/github/languages/code-size/giakou4/game_theory_spatial_PD)
 
