@@ -162,9 +162,10 @@ Such deterministically generated spatial structures may model and describe pre-b
   * ```printFc```: If 1, prints the frequency of cooperators over rounds
   * ```limit```: If >0, prints limit in fc as a horizontal line
 * ```main.m```: Includes the reproduction of the figures of the paper and much more!
+
 ## 3. Support
 Reach out to me:
-- [giakou4's email](mailto:ngiakoumoglou@gmail.com "ngiakoumoglou@gmail.com")
+- [Giakoumoglou's email](mailto:nikolaos.giakoumoglou@gmail.com "nikolaos.giakoumoglou@gmail.com")
 
 ## 4. Citation
 * Nowak, M., May, R. Evolutionary games and spatial chaos. Nature 359, 826–829 (1992). https://doi.org/10.1038/359826a0
